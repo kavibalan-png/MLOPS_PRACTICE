@@ -1,0 +1,6 @@
+2026-10-28 10:28:12,957 | INFO | prediction request=0 output=versicolor
+2026-10-28 10:28:12,964 | INFO | prediction request=1 output=setosa
+2026-10-28 10:28:12,970 | INFO | prediction request=2 output=versicolor
+2026-10-28 10:28:12,973 | INFO | prediction request=3 output=versicolor
+2026-10-28 10:28:12,978 | INFO | prediction request=4 output=versicolor
+2026-10-28 10:28:12,987 | WARNING | Data drift detected in features: ['PetalLengthCm']
